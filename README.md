@@ -1,0 +1,2 @@
+# musicalSetting
+Manage musical events
